@@ -10,4 +10,10 @@ car = {
 
 }
 
+animal = {
 
+"species" => "Homo Sapiens",
+"intelligence" => "Questionable"
+
+
+}
