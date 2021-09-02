@@ -10,6 +10,8 @@ car = {
 
 }
 
+# Animal hash
+
 animal = {
 
 "species" => "Homo Sapiens",
@@ -18,6 +20,7 @@ animal = {
 
 }
 
+# Customer hash
 
 customer = {
 
