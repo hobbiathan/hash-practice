@@ -17,3 +17,13 @@ animal = {
 
 
 }
+
+
+customer = {
+
+"store_member" => false,
+"coupon" => false,
+"is_using_plastic_bags" => false,
+"customer_number" => 23985723952395
+
+}
